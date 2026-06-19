@@ -9,5 +9,5 @@
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "60.0",
-  "OauthLocalPort": 7919
+  "oauthLocalPort": 7919
 }

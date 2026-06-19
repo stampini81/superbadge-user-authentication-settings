@@ -77,13 +77,27 @@ IPs usados no desafio:
 |-- LICENSE
 |-- sfdx-project.json
 |-- .gitignore
+|-- manifest/
+|   `-- package.xml
+|-- force-app/
+|   `-- main/default/
+|       |-- profilePasswordPolicies/
+|       |-- profiles/
+|       `-- settings/
 `-- doc/
+    |-- metadata.md
     `-- imagens/
         |-- badge.png
         |-- congratulations.png
         |-- logo.png
         `-- mascote.png
 ```
+
+## Metadados recuperados
+
+Os metadados essenciais foram recuperados da org autenticada como `user-auth-settings` e estao em formato SFDX em `force-app/main/default`.
+
+Resumo tecnico: [doc/metadata.md](doc/metadata.md)
 
 ## Evidencia de conclusao
 

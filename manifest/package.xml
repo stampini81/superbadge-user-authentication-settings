@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ConnectedApp</members>
+        <members>Security</members>
+        <name>Settings</name>
+    </types>
+    <types>
+        <members>Call Center Profile</members>
+        <members>Inside Sales Profile</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>PT1_profilePasswordPolicy1652814767705</members>
+        <members>Break_Glass_Administrator_profilePasswordPolicy1654105698038</members>
+        <name>ProfilePasswordPolicy</name>
+    </types>
+    <version>60.0</version>
+</Package>
